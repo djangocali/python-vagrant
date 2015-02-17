@@ -15,7 +15,7 @@ This command creates or start the vagrant instance
 $ vagrant up
 ```
 
-This command allow to loging in Linux virtual machine to play as you wish
+This command allow to login on Linux virtual machine to play with it as you wish
 
 ```sh
 $ vagrant ssh
