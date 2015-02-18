@@ -4,7 +4,7 @@ A simply Vagrant instance to run python/django projects, this project can be exe
 
 ### Requirements
 
-* [Virtualbox] - To create virtualmachines
+* [Virtualbox] - To create virtual machines
 * [Vagrant] - to create vagrant instance
 
 ### Set Up
